@@ -6,7 +6,7 @@ ParameterSSENCYPT=chacha20-ietf-poly1305
 CADDYIndexPage=https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html
 XRayConfig=https://raw.githubusercontent.com/bsefwe/glitch-Xray/main/etc/config.json
 # download execution
-chmod +x caddy xray
+chmod +x  xray
 
 # set caddy
 mkdir -p etc/caddy/ usr/share/caddy
